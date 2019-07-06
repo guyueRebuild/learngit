@@ -4,3 +4,4 @@ add a line;
 Git has mutable index called stage.
 Create a new branch is quick.
 hello branch
+Create a new branch is quick AND simple;
